@@ -79,11 +79,10 @@ The game features multiple levels with varying brick layouts, each introducing n
 
 The user interface is designed to be intuitive and user-friendly, displaying the current score clearly and ensuring that levels are easy to understand. Sound effects and music enhance the gameplay experience, with the music adapting to the difficulty level.
 
-## Wygląd
+## How It Looks
 
-<div style="text-align:center;">
+<p align="center">
   <img src="poziom_gry.png" alt="Gameplay Screenshot" />
-</div>
-
+</p>
 
 ![Gameplay Gif](game_video.gif)
