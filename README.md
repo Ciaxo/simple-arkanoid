@@ -85,4 +85,6 @@ The user interface is designed to be intuitive and user-friendly, displaying the
   <img src="poziom_gry.png" alt="Gameplay Screenshot" />
 </p>
 
-![Gameplay Gif](game_video.gif)
+<p align="center">
+  <img src="game_video.gif" alt="Gameplay Gif" />
+</p>
