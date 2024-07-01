@@ -15,7 +15,7 @@ Arkanoid is a classic brick-breaking game where the player controls a paddle to 
 - [Graphics and Sound](#graphics-and-sound)
 - [Technical Solutions](#technical-solutions)
 - [Project Description](#project-description)
-- [How It Looks](#look)
+- [How It Looks](#how-it-looks)
 
 ## Platform and Controls
 
@@ -81,6 +81,9 @@ The user interface is designed to be intuitive and user-friendly, displaying the
 
 ## Wygląd
 
-![Gameplay Screenshot](poziom_gry.png)
+<div style="text-align:center;">
+  <img src="poziom_gry.png" alt="Gameplay Screenshot" />
+</div>
+
 
 ![Gameplay Gif](game_video.gif)
